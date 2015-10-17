@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 9dae914d8bf847f43ac1fcf2ff827920
-timeCreated: 1445079919
+timeCreated: 1445089380
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -18,6 +18,8 @@ TextureImporter:
     21300022: sprites_13
     21300024: sprites_14
     21300026: sprites_9
+    21300028: sprites_12
+    21300030: sprites_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -201,6 +203,26 @@ TextureImporter:
         y: 1295
         width: 168
         height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprites_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1112
+        width: 452
+        height: 444
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprites_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1612
+        width: 182
+        height: 153
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
